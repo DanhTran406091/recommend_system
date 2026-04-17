@@ -1,0 +1,278 @@
+[
+  {
+    "course_id": "c1",
+    "requires": [
+      "javascript"
+    ]
+  },
+  {
+    "course_id": "c3",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c4",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c7",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c8",
+    "requires": [
+      "javascript"
+    ]
+  },
+  {
+    "course_id": "c10",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c11",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c12",
+    "requires": [
+      "javascript"
+    ]
+  },
+  {
+    "course_id": "c13",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c14",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c15",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c16",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c17",
+    "requires": [
+      "backend"
+    ]
+  },
+  {
+    "course_id": "c19",
+    "requires": [
+      "backend"
+    ]
+  },
+  {
+    "course_id": "c22",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c23",
+    "requires": [
+      "python_advanced"
+    ]
+  },
+  {
+    "course_id": "c24",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c25",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c26",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c27",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c28",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c29",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c30",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c31",
+    "requires": [
+      "javascript"
+    ]
+  },
+  {
+    "course_id": "c32",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c34",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c37",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c38",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c39",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c40",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c41",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c42",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c43",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c44",
+    "requires": [
+      "sql"
+    ]
+  },
+  {
+    "course_id": "c45",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c47",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c48",
+    "requires": [
+      "html"
+    ]
+  },
+  {
+    "course_id": "c51",
+    "requires": [
+      "backend"
+    ]
+  },
+  {
+    "course_id": "c52",
+    "requires": [
+      "javascript"
+    ]
+  },
+  {
+    "course_id": "c54",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c55",
+    "requires": [
+      "python_advanced"
+    ]
+  },
+  {
+    "course_id": "c56",
+    "requires": [
+      "python_advanced"
+    ]
+  },
+  {
+    "course_id": "c57",
+    "requires": [
+      "python_advanced"
+    ]
+  },
+  {
+    "course_id": "c58",
+    "requires": [
+      "python_basic"
+    ]
+  },
+  {
+    "course_id": "c59",
+    "requires": [
+      "backend"
+    ]
+  },
+  {
+    "course_id": "c60",
+    "requires": [
+      "backend"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "python_basic",
+    "name": "Python Basic",
+    "level": 1
+  },
+  {
+    "id": "python_advanced",
+    "name": "Python Advanced",
+    "level": 2
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "level": 2
+  },
+  {
+    "id": "data_structures",
+    "name": "Data Structures",
+    "level": 2
+  },
+  {
+    "id": "etl",
+    "name": "ETL",
+    "level": 3
+  },
+  {
+    "id": "data_warehouse",
+    "name": "Data Warehouse",
+    "level": 3
+  },
+  {
+    "id": "big_data",
+    "name": "Big Data",
+    "level": 3
+  },
+  {
+    "id": "machine_learning",
+    "name": "Machine Learning",
+    "level": 3
+  },
+  {
+    "id": "html",
+    "name": "HTML",
+    "level": 1
+  },
+  {
+    "id": "css",
+    "name": "CSS",
+    "level": 1
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "level": 2
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "level": 2
+  },
+  {
+    "id": "backend",
+    "name": "Backend",
+    "level": 2
+  },
+  {
+    "id": "api",
+    "name": "API",
+    "level": 2
+  }
+]
